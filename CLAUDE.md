@@ -179,3 +179,8 @@ python scripts/update_db_schema.py # Update schema for business analytics
 2. Verify health check endpoint responds
 3. Check container logs for initialization errors
 4. Ensure port 8000 is properly exposed
+
+## Deployment Information
+- 📋 **DEPLOYMENT_CREDENTIALS.md** - Complete credentials and deployment info for YClients parser
+- 🚀 Ready for TimeWeb Cloud Apps deployment with GitHub auto-sync
+- 🔑 All credentials available for production deployment
